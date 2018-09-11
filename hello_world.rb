@@ -2,5 +2,5 @@ class Hello
 
 puts "Hello World..!!!"
 puts "Change ...1!!!"
-puts "Change New"
+puts "Change Build"
 end
